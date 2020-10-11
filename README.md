@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img alt="Jehyun Lee | Google Scholar" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/google_scholar_icon_130918.png" />
   </a> &nbsp;  
 -->
-  <a href="stats.koo@gmail.com">
+  <a href="mailto:stats.koo@gmail.com">
     <img alt="JaeKwan Koo | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;  
   
